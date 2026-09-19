@@ -48,7 +48,7 @@ The notebook was developed using Python and Jupyter Notebook (originally run on 
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/overhead-mnist-gan.git
+git clone https://github.com/feliceeeee/Overhead-MNIST_Image_Generation_Using_GAN.git
 ```
 
 2. Install the required libraries:
