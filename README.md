@@ -58,5 +58,5 @@ pip install numpy matplotlib pillow scikit-learn torch torchvision tensorflow sc
 ```
 
 3. Ensure the dataset (Overhead-MNIST ship and helicopter images) is extracted to: `data/version2/train` dan `data/version2/test`, each containing `ship/` and `helicopter/` subfolders
-4. Open the notebook: `notebooks/overhead_mnist_gan.ipynb`
+4. Open the notebook: `notebook/Overhead-MNIST Image Generation Using Generative Adversarial Networks (GAN).ipynb`
 5. Run all cells to perform data preprocessing, baseline and modified GAN training, image generation, and FID-based evaluation.
